@@ -1,4 +1,32 @@
 body 
 {
-    background-color: #D0ECE7 ;
+}
+
+#div1{
+    background-color: #E4F9F5;
+    height: 25%;
+    padding: 20px;
+    border: solid;
+    margin: 5px;
+}
+#div2{
+    background-color: azure;
+    height: 25%;
+    border: solid;
+    margin: 5px;
+
+}
+#div3{
+    background-color:#E4F9F5 ;
+    border: solid;
+    margin: 5px;
+
+   
+}
+#div4{
+    background-color: azure;
+     border: solid;
+     margin: 5px;
+
+    
 }
